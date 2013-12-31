@@ -1,4 +1,4 @@
-vlc_plugin
-==========
+vlc_nysa_video_plugin
+=====================
 
-Generic VLC Plugin
+A plugin to play video on an LCD plugged into a Nysa based FPGA design

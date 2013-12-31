@@ -1,3 +1,7 @@
+build
+.sconsign.dblite
+.pyc
+
 # Object files
 *.o
 *.ko
