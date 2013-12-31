@@ -1,6 +1,6 @@
 build
 .sconsign.dblite
-.pyc
+*.pyc
 
 # Object files
 *.o
