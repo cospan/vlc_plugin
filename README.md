@@ -3,9 +3,10 @@ Generic VLC Video Output Plugin
 
 A geneic VLC 'out of tree' code base that can be used to write a VLC Video Output Plugin.
 
-To get started:
+To get started (Assuming this will be built on an Ubuntu platform):
 
-1. Follow the instructions for 'Installing the development files' from this page: https://wiki.videolan.org/OutOfTreeCompile/
+1. If you don't have scons install it: sudo apt-get install scons
+2. Follow the instructions for 'Installing the development files' from this page: https://wiki.videolan.org/OutOfTreeCompile/
 2. Clone this repo
 3. Go in the newly created vlc_plugin directory
 4. build using scons: (type 'scons')
