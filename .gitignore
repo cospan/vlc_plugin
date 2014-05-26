@@ -2,6 +2,9 @@ build
 .sconsign.dblite
 *.pyc
 
+#vim stuff
+*.swp
+
 # Object files
 *.o
 *.ko
